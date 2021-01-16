@@ -1,2 +1,1 @@
-# second-site
-Maked on free course
+https://1gluk1.github.io/second-site
